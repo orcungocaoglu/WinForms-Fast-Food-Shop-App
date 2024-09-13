@@ -1,0 +1,10 @@
+{
+  "1": {
+    "id": 0,
+    "musteriAd": "abcd",
+    "anaMenu": "anaYemek1",
+    "icecek": "icecek1",
+    "ekstralar": "ekstra1, ekstra2, ekstra3, ekstra4, ekstra5, ekstra6",
+    "tutar": 440
+  }
+}

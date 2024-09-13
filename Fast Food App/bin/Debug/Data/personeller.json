@@ -1,0 +1,26 @@
+{
+  "1": {
+    "personelID": 1,
+    "kullaniciAdi": "aaaaa",
+    "sifre": "12345",
+    "ePosta": "aaaaa@email.com"
+  },
+  "2": {
+    "personelID": 2,
+    "kullaniciAdi": "orcun",
+    "sifre": "1234",
+    "ePosta": "orcun@mail.com"
+  },
+  "3": {
+    "personelID": 3,
+    "kullaniciAdi": "abcd",
+    "sifre": "1234",
+    "ePosta": "abcd@mail.com"
+  },
+  "4": {
+    "personelID": 4,
+    "kullaniciAdi": "asdf",
+    "sifre": "1234",
+    "ePosta": "asdf@mail.com"
+  }
+}
